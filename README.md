@@ -1,10 +1,8 @@
 # 👋 I’m @GlittersIsGold
 
- 20 y.o. developer from Moscow
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GlittersIsGold&show_icons=true&theme=radical)
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GlittersIsGold&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
- 📫 Contact with me: cyberk1ra@yandex.ru
-
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GlittersIsGold&layout=compact&&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+ 
 # 👀 I’m interested in full stack development
   from little business projects up to highly loaded corporate systems
   writting clean supported code
