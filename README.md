@@ -3,10 +3,10 @@
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GlittersIsGold&show_icons=true&theme=radical)
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GlittersIsGold&layout=compact&&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
  
-# Interested in full stack development
-  from little business projects up to highly loaded corporate systems
-  writting clean supported code
-  discovering software technologies
+# Interested in Software development
+  from little business projects up to highly loaded corporate systems<br>
+  writting clean supported code<br>
+  discovering software technologies<br>
   
 # Currently learning .NET 
 
