@@ -8,21 +8,18 @@
   writting clean supported code
   discovering software technologies
   
-# Currently learning <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" title="DotNetCore" alt="DotNetCore" width="40" height="40"/> 
+# Currently learning .NET 
 
 # Programming stack:
  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="CSharp" alt="CSharp" width="40" height="40"/>&nbsp;
  <br>
- <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="ReactJS" alt="ReactJS" width="40" height="40"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
  <br>
  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" title="MSSQL" alt="MSSQL" width="40" height="40"/>&nbsp;
  <br>
  <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" title="Ubuntu" alt="Ubuntu" width="40" height="40"/>&nbsp;
- <img src="https://redos.red-soft.ru/bitrix/templates/redos/img/dest/logo.svg" title="RedOS" alt="RedOS" width="40" height="40"/>&nbsp;
- <img src="https://www.debian.org/Pics/debian-logo-1024x576.png" title="Debian" alt="Debian" width="40" height="40"/>&nbsp;
+ <img src="https://redos.red-soft.ru/bitrix/templates/redos/img/dest/logo.svg" title="RedOS" alt="RedOS" width="88" height="36"/>&nbsp;
+ <img src="https://www.debian.org/Pics/debian-logo-1024x576.png" title="Debian" alt="Debian" width="68.7" height="38.6"/>&nbsp;
 <!---
 GlittersIsGold/GlittersIsGold is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
