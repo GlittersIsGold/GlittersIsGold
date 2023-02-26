@@ -11,13 +11,11 @@
 # 🌱 I’m currently learning .NET
 
 # 💼 My programming stack:
- 
-  ## C#
+  ## <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="CSharp" alt="CSharp" width="40" height="40"/>&nbsp;
  ASP
  WPF
  MAUI
-  
-  ## JavaScript
+  ##<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
  React.js
  React Native
  Next.js
