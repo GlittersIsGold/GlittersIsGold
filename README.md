@@ -6,8 +6,6 @@
   from little business projects up to highly loaded corporate systems<br>
   writting clean supported code<br>
   discovering software technologies<br>
-  
-# Currently learning .NET 
 
 # Programming stack:
  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="CSharp" alt="CSharp" width="40" height="40"/>&nbsp;
