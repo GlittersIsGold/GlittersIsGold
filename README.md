@@ -1,35 +1,28 @@
-# 👋 I’m @GlittersIsGold
+# 👋 Hello @GlittersIsGold
 
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GlittersIsGold&show_icons=true&theme=radical)
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GlittersIsGold&layout=compact&&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
  
-# 👀 I’m interested in full stack development
+# Interested in full stack development
   from little business projects up to highly loaded corporate systems
   writting clean supported code
   discovering software technologies
   
-# 🌱 I’m currently learning .NET
+# Currently learning <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" title="DotNetCore" alt="DotNetCore" width="40" height="40"/> 
 
-# 💼 My programming stack:
-  ## <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="CSharp" alt="CSharp" width="40" height="40"/>&nbsp;
- ASP
- WPF
- MAUI
-  ##<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
- React.js
- React Native
- Next.js
- Node.js
-  
-  ## DBMS
- PostgreSQL
- MsSQL
- 
-  ## I enjoy Linux
-Ubuntu
-Debian
-RED OS
-
+# Programming stack:
+ <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="CSharp" alt="CSharp" width="40" height="40"/>&nbsp;
+ <br>
+ <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="ReactJS" alt="ReactJS" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+ <br>
+ <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" title="MSSQL" alt="MSSQL" width="40" height="40"/>&nbsp;
+ <br>
+ <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" title="Ubuntu" alt="Ubuntu" width="40" height="40"/>&nbsp;
+ <img src="https://redos.red-soft.ru/bitrix/templates/redos/img/dest/logo.svg" title="RedOS" alt="RedOS" width="40" height="40"/>&nbsp;
+ <img src="https://www.debian.org/Pics/debian-logo-1024x576.png" title="Debian" alt="Debian" width="40" height="40"/>&nbsp;
 <!---
 GlittersIsGold/GlittersIsGold is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
