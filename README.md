@@ -28,7 +28,7 @@ Ubuntu
 Mint
 РЕД ОС
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GlittersIsGold&show_icons=true&theme=radical)
 
 📫 Contact with me: cyberk1ra@yandex.ru
 
