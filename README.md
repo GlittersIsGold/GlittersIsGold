@@ -15,9 +15,19 @@
  </h3>
 </div>
 
-# Programming stack:
+# Programming stack
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,cpp,dotnet,cs,go,py,js,php,postgres,redis,rabbitmq,docker,kubernetes,git,bash,nginx" />
+    <img src="https://skillicons.dev/icons?i=cpp,cs,go,py,ts" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=dotnet,nodejs,postgres,redis,rabbitmq,kafka" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,git,github,gitlab,nginx,kubernetes,docker" />
   </a>
 </p>
