@@ -5,7 +5,7 @@
 # Interested in Software development
 <div align="center">
  <h3>
-     Currently learn Go and SQL. 
+     Currently learn Linux and C. 
  </h3>
  <h3>
      In love with IDM. Outdoor activities. Cooking. Reading professional and fiction literature. 
@@ -19,6 +19,6 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,cpp,go,python,postgres,docker,kubernetes,git" />
+    <img src="https://skillicons.dev/icons?i=linux,c,cpp,postgres,git" />
   </a>
 </p>
