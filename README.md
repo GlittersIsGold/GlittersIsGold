@@ -1,7 +1,8 @@
 # Software Engineer (Systems & Infrastructure)
 
 I build and maintain Linux-based software and infrastructure.
-Code, automation, networking, CI/CD — everything that runs in production.<br>
+
+Code, automation, networking, CI/CD — everything that runs in production.
 
 Focused on clarity, reliability, and understanding systems end-to-end.
 
