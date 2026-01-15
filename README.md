@@ -1,24 +1,21 @@
+# Software Engineer (Systems & Infrastructure)
 
- ![Kirill's GitHub stats](https://github-readme-stats.vercel.app/api?username=GlittersIsGold&bg_color=000000,000000,434343&title_color=ffffff&text_color=ffffff)
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GlittersIsGold&layout=compact&bg_color=10,000000,434343&title_color=ffffff&text_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
- 
-# Interested in Software development
-<div align="center">
- <h3>
-     Currently learn Linux and C. 
- </h3>
- <h3>
-     In love with IDM. Outdoor activities. Cooking. Reading professional and fiction literature. 
- </h3>
- <h3>
-     Inspired by knowledge. 
- </h3>
-</div>
+I build and maintain Linux-based software and infrastructure.
+Code, automation, networking, CI/CD — everything that runs in production.<br>
 
-# Programming stack
+Focused on clarity, reliability, and understanding systems end-to-end.
+
+## Core Focus
+- Linux & low-level systems
+- Networking & container orchestration
+- Infrastructure automation (Ansible, CI/CD)
+- Packaging, deployment, and observability
+- Clean, maintainable, and production-ready code
+
+## Tech Stack
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,c,cpp,postgres,git" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=linux,c,cpp" /><br>
+  <img src="https://skillicons.dev/icons?i=go,python,bash,docker" /><br>
+  <img src="https://skillicons.dev/icons?i=kubernetes,postgres,nginx,ansible,git" /><br>
 </p>
