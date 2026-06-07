@@ -14,7 +14,5 @@ Focused on clarity, reliability, and understanding systems end-to-end.
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,c,cpp" /><br>
-  <img src="https://skillicons.dev/icons?i=go,python,bash,docker" /><br>
-  <img src="https://skillicons.dev/icons?i=kubernetes,postgres,nginx,ansible,git" /><br>
+  <img src="https://skillicons.dev/icons?i=linux,c,cpp,go,python,bash,docker,kubernetes,ansible,postgres,redis,kafka,rabbitmq,nginx,git" />
 </p>
